@@ -1,0 +1,13 @@
+Projeto Scanner
+
+
+Com o fim do Flash e fim do suporte do Windows para ele, 
+muitos programas deixaram de funcionar nas máquinas, pois na atualização do Win10, a Microsoft remove o 
+Flash de nossas máquinas sem a possibilidade de reinstalá-lo.
+
+Eu tinha em minha máquina, um software da HP para digitalização de documentos, porém esse foi desenvido com Flash,
+O que me impossibilitou de fazer novas digitalizações
+
+Então resolvi esse sistema básico, que apenas escaneia documentos em formato de imagem, deixando à escolha do usuário, 
+o local onde deseja salvar o documento.
+
