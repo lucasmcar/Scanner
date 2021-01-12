@@ -1,4 +1,4 @@
-<h1>Projeto Scanner</h1>
+Projeto Scanner
 
 
 Com o fim do Flash e fim do suporte do Windows para ele, 
@@ -10,4 +10,6 @@ O que me impossibilitou de fazer novas digitalizações
 
 Então resolvi esse sistema básico, que apenas escaneia documentos em formato de imagem, deixando à escolha do usuário, 
 o local onde deseja salvar o documento.
+
+
 
