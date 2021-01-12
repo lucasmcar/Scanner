@@ -1,4 +1,4 @@
-Projeto Scanner
+<h1>Projeto Scanner</h1>
 
 
 Com o fim do Flash e fim do suporte do Windows para ele, 
